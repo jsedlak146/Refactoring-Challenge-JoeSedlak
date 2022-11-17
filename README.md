@@ -16,7 +16,7 @@ To use the Horiseon website, please click on one of the categories shown at the 
 
 ## Screenshot
 
-![website screenshot](/Users/joeysedlak/Desktop/Screen Shot 2022-11-16 at 8.06.32 PM.png)
+![website screenshot](./assets/images/Screen%20Shot%202022-11-16%20at%208.06.32%20PM.png)
 
 
 ## Credits
