@@ -6,6 +6,8 @@ This Refactoring challenge asks us to look at the Horiseon website and optimize 
 
  https://jsedlak146.github.io/Refactoring-Challenge-JoeSedlak/
 
+ https://github.com/jsedlak146/Refactoring-Challenge-JoeSedlak
+
 ## Installation
 
 Changed div elements to semantic HTML, fixed bugs and accessibility issues.  I also streamlined CSS to make it easier for future developers to use.
